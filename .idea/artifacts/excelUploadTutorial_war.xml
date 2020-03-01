@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="excelUploadTutorial:war">
+    <output-path>$PROJECT_DIR$/fileUploadTutorial/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>excelUploadTutorial</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="excelUploadDownloadTutorial.war">
+      <element id="artifact" artifact-name="excelUploadTutorial:war exploded" />
+    </root>
+  </artifact>
+</component>
