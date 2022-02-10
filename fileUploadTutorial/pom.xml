@@ -26,7 +26,7 @@
         <org.springframework.version>5.2.3.RELEASE</org.springframework.version>
         <springDataJPA.version>2.2.4.RELEASE</springDataJPA.version>
         <HikariCP.version>3.4.2</HikariCP.version>
-        <org.hibernate.version>5.4.12.Final</org.hibernate.version>
+        <org.hibernate.version>5.4.24.Final</org.hibernate.version>
         <mySql.version>8.0.19</mySql.version>
         <jstl.version>1.2</jstl.version>
         <servletapi.version>2.5</servletapi.version>
